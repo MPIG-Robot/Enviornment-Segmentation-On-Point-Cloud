@@ -1,0 +1,2 @@
+euclidean_cluster:pcl_test
+-DCATKIN_DEVEL_PREFIX=/home/ldp/pcl_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ldp/pcl_ws/install -G Unix Makefiles
